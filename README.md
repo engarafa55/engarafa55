@@ -66,7 +66,7 @@
 ### 🛠️ Tools, Build & CAD
 <p align="left"><img src="https://skillicons.dev/icons?i=cmake,linux,ubuntu,git,github,docker,vscode" alt="Tools and Environments" /><img width="12" /><img src="https://cdn.simpleicons.org/autodesk/0696D7" height="48" width="48" alt="Fusion 360" title="Autodesk Fusion 360" /></p>
 
-<br/>
+
 
 <hr/>
 
