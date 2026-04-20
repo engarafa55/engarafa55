@@ -55,27 +55,24 @@
 <br/>
 
 ### 💻 Programming Languages
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,bash" alt="Programming Languages" />
-</div>
-<br>
+</p>
 
 ### 👁️ AI, ML & Computer Vision
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="AI & ML" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ultralytics/00FFFF" width="48" height="48" alt="YOLO" title="YOLO (Ultralytics)" />
-</div>
-<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="AI & ML" />&nbsp;<img src="https://cdn.simpleicons.org/ultralytics/00FFFF" width="48" height="48" alt="YOLO" title="YOLO (Ultralytics)" />
+</p>
 
 ### 🤖 Robotics, Embedded & Edge AI
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi" alt="Robotics and Embedded" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA" title="NVIDIA (Jetson & Isaac Sim)" />
-</div>
-<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi" alt="Robotics and Embedded" />&nbsp;<img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA" title="NVIDIA (Jetson & Isaac Sim)" />
+</p>
 
 ### 🛠️ Tools, Build & CAD
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cmake,linux,ubuntu,git,github,docker,vscode" alt="Tools and Environments" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/autodesk/0696D7" width="48" height="48" alt="Fusion 360" title="Autodesk Fusion 360" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cmake,linux,ubuntu,git,github,docker,vscode" alt="Tools and Environments" />&nbsp;<img src="https://cdn.simpleicons.org/autodesk/0696D7" width="48" height="48" alt="Fusion 360" title="Autodesk Fusion 360" />
+</p>
 
 <br/><br/>
 
